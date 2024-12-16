@@ -3,11 +3,12 @@ body{
     color: whitesmoke;
 }
 .player{
-    height: 60vh;
+    height: 100vh;
     display: flex;
     align-items: center;
     flex-direction: column;
     justify-content: center;
+    margin:30px;
 }
 .wrapper{
     border: 1px solid transparent;
